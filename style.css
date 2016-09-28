@@ -72,12 +72,3 @@ div {
   background-color: #C61414;
   color: white;
 }
-
-.fa {
-    display: inline-block;
-    font-size: 30px;
-    font-family: FontAwesome;
-    font-style: normal;
-    font-weight: normal;
-    line-height: 1;
-}
