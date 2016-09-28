@@ -48,15 +48,6 @@ div {
     text-align: center;
 }
 
-.fa {
-    display: inline-block;
-    font-size: 30px;
-    font-family: FontAwesome;
-    font-style: normal;
-    font-weight: normal;
-    line-height: 1;
-}
-
 .list_inline {
   padding-left: 0;
 }
